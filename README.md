@@ -1,6 +1,7 @@
 # How To Use
 
 ## 1. Download the folder
+https://github.com/siddhesh12323/add-email-extension/archive/refs/heads/main.zip
 
 ## 2. Enable Developer Mode In Extensions Page
 
